@@ -8,25 +8,49 @@ Vi började med att lära oss grundläggande navigering i filsystemet. Här är 
 
 🔍 Viktiga Kommandon:
 pwd: Visar vilken katalog du är i. 🧭
+pwd Detta ger dig den absoluta vägen, som /home/user.
 
-Exempel:
-bash
-Kopiera kod
-pwd
-Detta ger dig den absoluta vägen, som /home/user.
 ls: Visar filer och mappar i den aktuella katalogen. 📜
+ls För att se alla filer, inklusive dolda filer:
 
-Exempel:
-bash
-Kopiera kod
-ls
-För att se alla filer, inklusive dolda filer:
-bash
-Kopiera kod
 ls -a
+
 cd: Byter katalog. 🚶‍♂️
 
 Exempel:
 bash
 Kopiera kod
 cd /home/user/Documents
+
+2. Fil- och Mapphantering 📁✍️
+✏️ Viktiga Kommandon:
+touch: Skapar en tom fil. 📝
+
+Exempel:
+bash
+Kopiera kod
+touch file1.txt
+mkdir: Skapar en ny katalog (mapp). 🏠
+
+Exempel:
+bash
+Kopiera kod
+mkdir NewFolder
+mv: Flyttar eller byter namn på filer eller mappar. 🚚🔀
+
+Exempel:
+bash
+Kopiera kod
+mv file1.txt ~/Documents
+rm: Raderar filer. 🗑️❌
+
+Exempel:
+bash
+Kopiera kod
+rm file1.txt
+rm -r: Raderar kataloger och allt innehåll. 🚮⚠️
+
+Exempel:
+bash
+Kopiera kod
+rm -r OldFolder
