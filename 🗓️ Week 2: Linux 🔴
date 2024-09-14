@@ -26,28 +26,14 @@ cd /home/user/Documents
 touch file1.txt
 
 mkdir: Skapar en ny katalog (mapp). 🏠
-
-Exempel:
-bash
-Kopiera kod
 mkdir NewFolder
-mv: Flyttar eller byter namn på filer eller mappar. 🚚🔀
 
-Exempel:
-bash
-Kopiera kod
+- mv: Flyttar eller byter namn på filer eller mappar. 🚚🔀
 mv file1.txt ~/Documents
-rm: Raderar filer. 🗑️❌
 
-Exempel:
-bash
-Kopiera kod
+- rm: Raderar filer. 🗑️❌
 rm file1.txt
 rm -r: Raderar kataloger och allt innehåll. 🚮⚠️
-
-Exempel:
-bash
-Kopiera kod
 rm -r OldFolder
 
 🔴 3. Läsa och Skriva Innehåll i Filer ✏️📖
