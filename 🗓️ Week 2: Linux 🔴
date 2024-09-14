@@ -50,7 +50,7 @@ bash
 Kopiera kod
 rm -r OldFolder
 
-3. Läsa och Skriva Innehåll i Filer ✏️📖
+🔴 3. Läsa och Skriva Innehåll i Filer ✏️📖
 Vi lärde oss hur man skapar innehåll i filer och sedan läser det med följande kommandon:
 
 echo: Skriver text till en fil. 🔤
