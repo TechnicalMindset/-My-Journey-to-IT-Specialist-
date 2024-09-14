@@ -49,3 +49,116 @@ Exempel:
 bash
 Kopiera kod
 rm -r OldFolder
+
+3. Läsa och Skriva Innehåll i Filer ✏️📖
+Vi lärde oss hur man skapar innehåll i filer och sedan läser det med följande kommandon:
+
+echo: Skriver text till en fil. 🔤
+
+Exempel:
+bash
+Kopiera kod
+echo "Hello Linux World!" > file1.txt
+cat: Visar innehållet i en fil. 📜🔍
+
+Exempel:
+bash
+Kopiera kod
+cat file1.txt
+4. Använda nano för Textredigering ✍️💻
+nano: Vi lärde oss att använda textredigeraren nano för att redigera filer direkt i terminalen.
+Exempel:
+bash
+Kopiera kod
+nano myfile.txt
+För att spara och stänga, tryck på Ctrl + X, sedan Y för att spara, och slutligen Enter.
+5. Hantera Användare och Rättigheter 👤🔑
+su: Vi använde detta kommando för att växla användare (switch user). ⚙️
+
+Exempel:
+bash
+Kopiera kod
+su username
+Du kan byta till root-användaren genom att köra:
+bash
+Kopiera kod
+su -
+sudo: Används för att köra kommandon med administrativa rättigheter. 🔓
+
+Exempel:
+bash
+Kopiera kod
+sudo apt update
+Det här kommandot används ofta för installation och systemuppdateringar.
+6. Flytta Filer och Mappar 🚚📦
+Vi använde mv för att flytta filer mellan kataloger och byta namn på filer. 🧳
+
+Flytta en fil:
+
+Exempel:
+bash
+Kopiera kod
+mv file1.txt ~/Documents/NewFolder
+Byta namn på en fil:
+
+Exempel:
+bash
+Kopiera kod
+mv oldfile.txt newfile.txt
+7. Radera Filer och Kataloger 🗑️🚮
+För att radera filer och mappar använde vi rm och rm -r för kataloger. 🚯
+
+Radera en fil:
+
+Exempel:
+bash
+Kopiera kod
+rm file1.txt
+Radera en katalog och dess innehåll:
+
+Exempel:
+bash
+Kopiera kod
+rm -r folder
+8. Filsystemets Struktur och Vägar 🚶‍♂️🔗
+Vi pratade om relativa och absoluta vägar. Här är några viktiga begrepp vi lärde oss:
+
+Absolut väg: Den fullständiga vägen från rotkatalogen (/) till en fil eller mapp. 📍
+
+Exempel:
+bash
+Kopiera kod
+/home/user/Documents
+Relativ väg: Vägen från den aktuella katalogen där du befinner dig. 🔀
+
+Exempel:
+bash
+Kopiera kod
+../Documents
+9. Söka och Visa Information om Kommandon 📚🔍
+För att förstå hur man använder kommandon i Linux, använde vi manualsidor och hjälpkommandon.
+
+man: Visar manualen för ett kommando. 📘
+
+Exempel:
+bash
+Kopiera kod
+man ls
+--help: Ger en snabb översikt över hur man använder ett kommando. ℹ️
+
+Exempel:
+bash
+Kopiera kod
+ls --help
+10. Felsökning och Optimering 🛠️💡
+Vi har även lärt oss några viktiga knep för att felsöka och optimera vårt arbete i terminalen. Genom att använda piltangenterna kan vi navigera mellan tidigare kommandon, vilket gör det enklare att återanvända dem utan att skriva om allt! 🔄
+
+Piltangenterna: Används för att bläddra mellan tidigare kommandon. ⬆️⬇️
+Sammanfattning av Veckan 📝
+Vad vi har lärt oss:
+Navigera i filsystemet med pwd, ls, cd 🧭
+Skapa och hantera filer och mappar med touch, mkdir, mv, rm 📁📝
+Läsa och skriva filer med echo, cat, och nano ✍️📖
+Använda rättigheter med su och sudo 👤🔑
+Söka information med man och --help 📚🔍
+Optimera arbetet med snabbnavigering via piltangenterna ⬆️⬇️
