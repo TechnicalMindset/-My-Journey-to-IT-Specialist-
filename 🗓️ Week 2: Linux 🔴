@@ -3,7 +3,7 @@ Denna vecka har vi djupdykt i Linux och lärt oss en massa nya kommandon! 🧑�
 med massor av emojis och tydliga förklaringar! 🚀
 
 
-- Navigera i Filsystemet 🗂️📂
+🔴 - Navigera i Filsystemet 🗂️📂
 Vi började med att lära oss grundläggande navigering i filsystemet. Här är några av de viktigaste kommandona:
 
 🔍 Viktiga Kommandon:
@@ -18,13 +18,11 @@ ls -a
 - cd: Byter katalog. 🚶‍♂️
 cd /home/user/Documents
 
-2. Fil- och Mapphantering 📁✍️
-✏️ Viktiga Kommandon:
-touch: Skapar en tom fil. 📝
+🔴 - 2. Fil- och Mapphantering 📁✍️
 
-Exempel:
-bash
-Kopiera kod
+✏️ Viktiga Kommandon:
+
+touch: Skapar en tom fil. 📝
 touch file1.txt
 mkdir: Skapar en ny katalog (mapp). 🏠
 
