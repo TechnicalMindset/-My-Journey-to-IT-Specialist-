@@ -7,19 +7,15 @@ med massor av emojis och tydliga förklaringar! 🚀
 Vi började med att lära oss grundläggande navigering i filsystemet. Här är några av de viktigaste kommandona:
 
 🔍 Viktiga Kommandon:
-pwd: Visar vilken katalog du är i. 🧭
+- pwd: Visar vilken katalog du är i. 🧭
 pwd Detta ger dig den absoluta vägen, som /home/user.
 
-ls: Visar filer och mappar i den aktuella katalogen. 📜
+- ls: Visar filer och mappar i den aktuella katalogen. 📜
 ls För att se alla filer, inklusive dolda filer:
 
 ls -a
 
-cd: Byter katalog. 🚶‍♂️
-
-Exempel:
-bash
-Kopiera kod
+- cd: Byter katalog. 🚶‍♂️
 cd /home/user/Documents
 
 2. Fil- och Mapphantering 📁✍️
