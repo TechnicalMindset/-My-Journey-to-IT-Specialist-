@@ -22,8 +22,9 @@ cd /home/user/Documents
 
 ✏️ Viktiga Kommandon:
 
-touch: Skapar en tom fil. 📝
+- touch: Skapar en tom fil. 📝
 touch file1.txt
+
 mkdir: Skapar en ny katalog (mapp). 🏠
 
 Exempel:
