@@ -39,18 +39,12 @@ rm -r OldFolder
 🔴 3. Läsa och Skriva Innehåll i Filer ✏️📖
 Vi lärde oss hur man skapar innehåll i filer och sedan läser det med följande kommandon:
 
-echo: Skriver text till en fil. 🔤
+- echo: Skriver text till en fil. 🔤
+- echo "Hello Linux World!" > file1.txt
 
-Exempel:
-bash
-Kopiera kod
-echo "Hello Linux World!" > file1.txt
-cat: Visar innehållet i en fil. 📜🔍
+- cat: Visar innehållet i en fil. 📜🔍
+- cat file1.txt
 
-Exempel:
-bash
-Kopiera kod
-cat file1.txt
 🔴 4. Använda nano för Textredigering ✍️💻
 nano: Vi lärde oss att använda textredigeraren nano för att redigera filer direkt i terminalen.
 Exempel:
