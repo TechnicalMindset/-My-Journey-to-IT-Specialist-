@@ -51,7 +51,7 @@ Exempel:
 bash
 Kopiera kod
 cat file1.txt
-4. Använda nano för Textredigering ✍️💻
+🔴 4. Använda nano för Textredigering ✍️💻
 nano: Vi lärde oss att använda textredigeraren nano för att redigera filer direkt i terminalen.
 Exempel:
 bash
