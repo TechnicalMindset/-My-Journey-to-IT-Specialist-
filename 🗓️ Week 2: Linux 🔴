@@ -48,29 +48,23 @@ Vi lärde oss hur man skapar innehåll i filer och sedan läser det med följand
 🔴 4. Använda nano för Textredigering ✍️💻
 nano: Vi lärde oss att använda textredigeraren nano för att redigera filer direkt i terminalen.
 Exempel:
-bash
-Kopiera kod
 nano myfile.txt
 För att spara och stänga, tryck på Ctrl + X, sedan Y för att spara, och slutligen Enter.
-5. Hantera Användare och Rättigheter 👤🔑
-su: Vi använde detta kommando för att växla användare (switch user). ⚙️
 
+
+🔴 5. Hantera Användare och Rättigheter 👤🔑
+su: Vi använde detta kommando för att växla användare (switch user). ⚙️
 Exempel:
-bash
-Kopiera kod
-su username
+
 Du kan byta till root-användaren genom att köra:
-bash
-Kopiera kod
 su -
 sudo: Används för att köra kommandon med administrativa rättigheter. 🔓
 
 Exempel:
-bash
-Kopiera kod
 sudo apt update
 Det här kommandot används ofta för installation och systemuppdateringar.
-6. Flytta Filer och Mappar 🚚📦
+
+🔴 6. Flytta Filer och Mappar 🚚📦
 Vi använde mv för att flytta filer mellan kataloger och byta namn på filer. 🧳
 
 Flytta en fil:
