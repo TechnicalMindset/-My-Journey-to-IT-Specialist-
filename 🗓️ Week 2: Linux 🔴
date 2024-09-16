@@ -73,17 +73,12 @@ mv file1.txt ~/Documents/NewFolder
 
 - Byta namn på en fil:
 Exempel:
-bash
-Kopiera kod
 mv oldfile.txt newfile.txt
-7. Radera Filer och Kataloger 🗑️🚮
+
+🔴 7. Radera Filer och Kataloger 🗑️🚮
 För att radera filer och mappar använde vi rm och rm -r för kataloger. 🚯
-
-Radera en fil:
-
+- Radera en fil:
 Exempel:
-bash
-Kopiera kod
 rm file1.txt
 Radera en katalog och dess innehåll:
 
