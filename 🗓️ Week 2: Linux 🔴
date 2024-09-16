@@ -80,7 +80,9 @@ För att radera filer och mappar använde vi rm och rm -r för kataloger. 🚯
 - Radera en fil:
 Exempel:
 rm file1.txt
-Radera en katalog och dess innehåll:
+
+
+- Radera en katalog och dess innehåll:
 
 Exempel:
 bash
