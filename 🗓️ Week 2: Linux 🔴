@@ -67,13 +67,11 @@ Det här kommandot används ofta för installation och systemuppdateringar.
 🔴 6. Flytta Filer och Mappar 🚚📦
 Vi använde mv för att flytta filer mellan kataloger och byta namn på filer. 🧳
 
-Flytta en fil:
-
+- Flytta en fil:
 Exempel:
-
 mv file1.txt ~/Documents/NewFolder
-Byta namn på en fil:
 
+- Byta namn på en fil:
 Exempel:
 bash
 Kopiera kod
