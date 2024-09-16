@@ -70,8 +70,7 @@ Vi använde mv för att flytta filer mellan kataloger och byta namn på filer. �
 Flytta en fil:
 
 Exempel:
-bash
-Kopiera kod
+
 mv file1.txt ~/Documents/NewFolder
 Byta namn på en fil:
 
