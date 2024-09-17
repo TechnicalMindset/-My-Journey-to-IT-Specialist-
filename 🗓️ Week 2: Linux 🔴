@@ -3,22 +3,22 @@ Denna vecka har vi djupdykt i Linux och lärt oss en massa nya kommandon! 🧑�
 med massor av emojis och tydliga förklaringar! 🚀
 
 
-🔴 - Navigera i Filsystemet 🗂️📂
+ - Navigera i Filsystemet 🗂️📂
 Vi började med att lära oss grundläggande navigering i filsystemet. Här är några av de viktigaste kommandona:
 
 🔍 Viktiga Kommandon:
-- pwd: Visar vilken katalog du är i. 🧭
+🔴- pwd: Visar vilken katalog du är i. 🧭
 pwd Detta ger dig den absoluta vägen, som /home/user.
 
-- ls: Visar filer och mappar i den aktuella katalogen. 📜
+🔴- ls: Visar filer och mappar i den aktuella katalogen. 📜
 ls För att se alla filer, inklusive dolda filer:
 
-ls -a
+🔴ls -a
 
-- cd: Byter katalog. 🚶‍♂️
-cd /home/user/Documents
+🔴- cd: Byter katalog. 🚶‍♂️
+🔴cd /home/user/Documents
 
-🔴 - 2. Fil- och Mapphantering 📁✍️
+ - 2. Fil- och Mapphantering 📁✍️
 
 ✏️ Viktiga Kommandon:
 
