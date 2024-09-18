@@ -36,7 +36,7 @@ rm file1.txt
 rm -r: Raderar kataloger och allt innehåll. 🚮⚠️
 rm -r OldFolder
 
-🔴 3. Läsa och Skriva Innehåll i Filer ✏️📖
+- 3. Läsa och Skriva Innehåll i Filer ✏️📖
 Vi lärde oss hur man skapar innehåll i filer och sedan läser det med följande kommandon:
 
 - echo: Skriver text till en fil. 🔤
@@ -45,14 +45,14 @@ Vi lärde oss hur man skapar innehåll i filer och sedan läser det med följand
 - cat: Visar innehållet i en fil. 📜🔍
 - cat file1.txt
 
-🔴 4. Använda nano för Textredigering ✍️💻
+- 4. Använda nano för Textredigering ✍️💻
 nano: Vi lärde oss att använda textredigeraren nano för att redigera filer direkt i terminalen.
 Exempel:
 nano myfile.txt
 För att spara och stänga, tryck på Ctrl + X, sedan Y för att spara, och slutligen Enter.
 
 
-🔴 5. Hantera Användare och Rättigheter 👤🔑
+- 5. Hantera Användare och Rättigheter 👤🔑
 su: Vi använde detta kommando för att växla användare (switch user). ⚙️
 Exempel:
 
