@@ -22,16 +22,16 @@ ls För att se alla filer, inklusive dolda filer:
 
 ✏️ Viktiga Kommandon:
 
-- touch: Skapar en tom fil. 📝
+🔴- touch: Skapar en tom fil. 📝
 touch file1.txt
 
-mkdir: Skapar en ny katalog (mapp). 🏠
+🔴mkdir: Skapar en ny katalog (mapp). 🏠
 mkdir NewFolder
 
-- mv: Flyttar eller byter namn på filer eller mappar. 🚚🔀
+🔴- mv: Flyttar eller byter namn på filer eller mappar. 🚚🔀
 mv file1.txt ~/Documents
 
-- rm: Raderar filer. 🗑️❌
+🔴- rm: Raderar filer. 🗑️❌
 rm file1.txt
 rm -r: Raderar kataloger och allt innehåll. 🚮⚠️
 rm -r OldFolder
