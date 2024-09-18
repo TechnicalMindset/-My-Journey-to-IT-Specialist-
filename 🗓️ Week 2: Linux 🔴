@@ -64,7 +64,7 @@ Exempel:
 sudo apt update
 Det här kommandot används ofta för installation och systemuppdateringar.
 
-🔴 6. Flytta Filer och Mappar 🚚📦
+- 6. Flytta Filer och Mappar 🚚📦
 Vi använde mv för att flytta filer mellan kataloger och byta namn på filer. 🧳
 
 - Flytta en fil:
@@ -75,7 +75,7 @@ mv file1.txt ~/Documents/NewFolder
 Exempel:
 mv oldfile.txt newfile.txt
 
-🔴 7. Radera Filer och Kataloger 🗑️🚮
+- 7. Radera Filer och Kataloger 🗑️🚮
 För att radera filer och mappar använde vi rm och rm -r för kataloger. 🚯
 - Radera en fil:
 Exempel:
