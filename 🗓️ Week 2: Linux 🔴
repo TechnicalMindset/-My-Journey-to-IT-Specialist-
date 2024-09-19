@@ -83,12 +83,10 @@ Exempel:
 
 
 - Radera en katalog och dess innehåll:
-
 Exempel:
-bash
-Kopiera kod
-rm -r folder
-8. Filsystemets Struktur och Vägar 🚶‍♂️🔗
+🔴 rm -r folder
+
+- 8. Filsystemets Struktur och Vägar 🚶‍♂️🔗
 Vi pratade om relativa och absoluta vägar. Här är några viktiga begrepp vi lärde oss:
 
 Absolut väg: Den fullständiga vägen från rotkatalogen (/) till en fil eller mapp. 📍
