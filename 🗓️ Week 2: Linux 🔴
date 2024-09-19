@@ -39,16 +39,16 @@ rm -r OldFolder
 - 3. Läsa och Skriva Innehåll i Filer ✏️📖
 Vi lärde oss hur man skapar innehåll i filer och sedan läser det med följande kommandon:
 
-- echo: Skriver text till en fil. 🔤
-- echo "Hello Linux World!" > file1.txt
+🔴 echo: Skriver text till en fil. 🔤
+🔴 echo "Hello Linux World!" > file1.txt
 
-- cat: Visar innehållet i en fil. 📜🔍
-- cat file1.txt
+🔴 cat: Visar innehållet i en fil. 📜🔍
+🔴 cat file1.txt
 
 - 4. Använda nano för Textredigering ✍️💻
 nano: Vi lärde oss att använda textredigeraren nano för att redigera filer direkt i terminalen.
 Exempel:
-nano myfile.txt
+🔴 nano myfile.txt
 För att spara och stänga, tryck på Ctrl + X, sedan Y för att spara, och slutligen Enter.
 
 
@@ -57,11 +57,11 @@ su: Vi använde detta kommando för att växla användare (switch user). ⚙️
 Exempel:
 
 Du kan byta till root-användaren genom att köra:
-su -
-sudo: Används för att köra kommandon med administrativa rättigheter. 🔓
+🔴 su -
+🔴 sudo: Används för att köra kommandon med administrativa rättigheter. 🔓
 
 Exempel:
-sudo apt update
+🔴 sudo apt update
 Det här kommandot används ofta för installation och systemuppdateringar.
 
 - 6. Flytta Filer och Mappar 🚚📦
@@ -69,7 +69,7 @@ Vi använde mv för att flytta filer mellan kataloger och byta namn på filer. �
 
 - Flytta en fil:
 Exempel:
-mv file1.txt ~/Documents/NewFolder
+🔴 mv file1.txt ~/Documents/NewFolder
 
 - Byta namn på en fil:
 Exempel:
