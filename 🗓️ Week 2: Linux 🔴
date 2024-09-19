@@ -101,7 +101,7 @@ Exempel:
 - 9. Söka och Visa Information om Kommandon 📚🔍
 För att förstå hur man använder kommandon i Linux, använde vi manualsidor och hjälpkommandon.
 
-man: Visar manualen för ett kommando. 📘
+🔴man: Visar manualen för ett kommando. 📘
 
 Exempel:
 bash
