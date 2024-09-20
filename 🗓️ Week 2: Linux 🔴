@@ -109,9 +109,8 @@ Exempel:
 --help: Ger en snabb översikt över hur man använder ett kommando. ℹ️
 
 Exempel:
-bash
-Kopiera kod
 🔴 ls --help
+
 10. Felsökning och Optimering 🛠️💡
 Vi har även lärt oss några viktiga knep för att felsöka och optimera vårt arbete i terminalen. Genom att använda piltangenterna kan vi navigera mellan tidigare kommandon, vilket gör det enklare att återanvända dem utan att skriva om allt! 🔄
 
