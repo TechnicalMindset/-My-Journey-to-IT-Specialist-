@@ -111,7 +111,7 @@ Exempel:
 Exempel:
 bash
 Kopiera kod
-ls --help
+🔴 ls --help
 10. Felsökning och Optimering 🛠️💡
 Vi har även lärt oss några viktiga knep för att felsöka och optimera vårt arbete i terminalen. Genom att använda piltangenterna kan vi navigera mellan tidigare kommandon, vilket gör det enklare att återanvända dem utan att skriva om allt! 🔄
 
