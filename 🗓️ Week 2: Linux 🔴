@@ -117,9 +117,9 @@ Vi har även lärt oss några viktiga knep för att felsöka och optimera vårt 
 Piltangenterna: Används för att bläddra mellan tidigare kommandon. ⬆️⬇️
 Sammanfattning av Veckan 📝
 Vad vi har lärt oss:
-Navigera i filsystemet med pwd, ls, cd 🧭
-Skapa och hantera filer och mappar med touch, mkdir, mv, rm 📁📝
-Läsa och skriva filer med echo, cat, och nano ✍️📖
+🔴 Navigera i filsystemet med pwd, ls, cd 🧭
+🔴 Skapa och hantera filer och mappar med touch, mkdir, mv, rm 📁📝
+🔴 Läsa och skriva filer med echo, cat, och nano ✍️📖
 Använda rättigheter med su och sudo 👤🔑
 Söka information med man och --help 📚🔍
 Optimera arbetet med snabbnavigering via piltangenterna ⬆️⬇️
